@@ -1,7 +1,7 @@
-* ** WARNING: THESE IMAGES HAVE A SECURITY FLAW ON PURPOSE TO DEMONSTRATE SECURITY ISSUES! FOR EDUCATIONAL PURPOSE ONLY!**
-Security issues are:
-chmod +s /usr/bin/vim SUID bit set on VIM!
-capability added to /usr/sbin/nginx
+*   **WARNING: THESE IMAGES HAVE A SECURITY FLAW ON PURPOSE TO DEMONSTRATE SECURITY ISSUES! FOR EDUCATIONAL PURPOSE ONLY!**
+* Security issues are:
+* chmod +s /usr/bin/vim SUID bit set on VIM!
+* capability added to /usr/sbin/nginx
 
 
 
